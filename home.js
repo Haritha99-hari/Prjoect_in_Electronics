@@ -1,5 +1,5 @@
 watch =()=>{
 
-    window.location.href = "video.html"
+    window.location.href = "electronics.html"
 
 }
